@@ -1,5 +1,5 @@
-#If the bill was $150.00, split between 5 people, with a 12% tip. 
-#Each person should pay (150.00 / 5) * 1.12 = 33.60
+#This program indicates how much each person should pay when splitting the bill with others (including the tip).
+#If the bill was $150.00, split between 5 people, with a 12% tip, each person should pay (150.00 / 5) * 1.12 = 33.60
 
 print("Welcome to the tip calculator.")
 total = float(input("What was the total bill? $"))
