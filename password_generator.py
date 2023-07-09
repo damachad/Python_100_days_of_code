@@ -17,5 +17,5 @@ password += symbol_list
 number_list = random.sample(numbers, nr_numbers)
 password += number_list
 random.shuffle(password)
-new_passwd_str = ''.join(password)
-print(new_passwd_str)
+password_str = ''.join(password)
+print(password_str)
