@@ -23,8 +23,17 @@ I summarized what concepts I learned each day:
 ### Day 4 - rock_paper_scissors
 
 - Randomisation
-- Python lists
+- Lists
 
 ### Day 5 - password_generator
 
-- Python for loops
+- For loops
+
+### Day 6 - [Reeborg's world](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json)
+
+- While loops
+- Functions
+
+### Day 7 - hangman
+
+- Revision and debugging
