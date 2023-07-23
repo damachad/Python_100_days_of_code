@@ -1,5 +1,3 @@
-# This program simulates a simple game where each decision changes the outcome
-
 print('''
 *****************************************************
 * ^  ^  ^   ^      ___I_      ^  ^   ^  ^  ^   ^  ^ *
