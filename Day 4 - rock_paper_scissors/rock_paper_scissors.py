@@ -1,5 +1,3 @@
-# Simulation of the "rock, paper, scissors" game
-
 rock = '''
     _______
 ---'   ____)
