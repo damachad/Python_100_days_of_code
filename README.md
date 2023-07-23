@@ -37,3 +37,12 @@ I summarized what concepts I learned each day:
 ### Day 7 - hangman
 
 - Revision and debugging
+
+### Day 8 - caesar_cipher
+
+- Function parameters
+- User experience improvement
+
+### Day 9 - blind_auction
+
+- Dictionaries
