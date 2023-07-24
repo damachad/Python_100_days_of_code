@@ -46,3 +46,8 @@ I summarized what concepts I learned each day:
 ### Day 9 - blind_auction
 
 - Dictionaries
+
+### Day 10 - calculator
+
+- Functions with outputs
+- Recursion
