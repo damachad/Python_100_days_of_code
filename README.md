@@ -51,3 +51,7 @@ I summarized what concepts I learned each day:
 
 - Functions with outputs
 - Recursion
+
+### Day 11 - blackjack
+
+- Code organization
