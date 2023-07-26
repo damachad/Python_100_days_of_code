@@ -55,3 +55,8 @@ I summarized what concepts I learned each day:
 ### Day 11 - blackjack
 
 - Code organization
+
+### Day 12 - guessing_number_game
+
+- Scope and Constants
+
