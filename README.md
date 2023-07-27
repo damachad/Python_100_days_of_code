@@ -60,4 +60,4 @@ I summarized what concepts I learned each day:
 
 - Scope and Constants
 
-### (Day 13 - Debugging practice)
+### Day 13 - Debugging practice (no files to show)
