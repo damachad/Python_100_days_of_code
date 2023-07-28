@@ -3,7 +3,7 @@
 Exercises from the [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) course.    
 You can access my Replit page and run the code from all these exercises [here](https://replit.com/@damachad).   
    
-I summarized what concepts I learned each day:
+I summarized what concepts I learned/revised each day:
 
 ### Day 1 - band_name_generator
 
@@ -61,3 +61,10 @@ I summarized what concepts I learned each day:
 - Scope and Constants
 
 ### Day 13 - Debugging practice (no files to show)
+
+- Debugging
+
+### Day 14 - higher_lower
+
+- Revision (scope, organizing code, etc.)
+
