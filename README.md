@@ -68,3 +68,7 @@ I summarized what concepts I learned/revised each day:
 
 - Revision (scope, organizing code, etc.)
 
+### Day 15 - coffee_machine
+
+- Working with PyCharm
+
