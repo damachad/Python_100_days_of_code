@@ -70,5 +70,5 @@ I summarized what concepts I learned/revised each day:
 
 ### Day 15 - coffee_machine
 
-- Working with PyCharm
+- Working with [PyCharm](https://www.jetbrains.com/pycharm/download/).
 
