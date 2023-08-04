@@ -72,3 +72,7 @@ I summarized what concepts I learned/revised each day:
 
 - Working with [PyCharm](https://www.jetbrains.com/pycharm/download/).
 
+### Day 16 - oop_coffee_machine
+
+- Object-Oriented Programming
+
