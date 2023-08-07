@@ -76,3 +76,9 @@ I summarized what concepts I learned/revised each day:
 
 - Object-Oriented Programming
 
+### Day 17 - quiz
+
+- Creating classes
+- Defining methods
+- Initializing attributes
+
