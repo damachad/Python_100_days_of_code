@@ -82,3 +82,6 @@ I summarized what concepts I learned/revised each day:
 - Defining methods
 - Initializing attributes
 
+### Day 18 - Hirst painting
+
+- Turtle module
