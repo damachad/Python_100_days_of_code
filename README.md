@@ -85,3 +85,8 @@ I summarized what concepts I learned/revised each day:
 ### Day 18 - Hirst painting
 
 - Turtle module
+
+### Day 19 - Turtle race
+
+- Instances and state
+- Higher-order functions
