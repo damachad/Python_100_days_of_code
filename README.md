@@ -90,3 +90,8 @@ I summarized what concepts I learned/revised each day:
 
 - Instances and state
 - Higher-order functions
+
+### Days 20 and 21 - Snake game
+
+- Inheritance
+- List slicing
