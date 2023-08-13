@@ -95,3 +95,7 @@ I summarized what concepts I learned/revised each day:
 
 - Inheritance
 - List slicing
+
+### Days 22 - pong
+
+- OOP practice
