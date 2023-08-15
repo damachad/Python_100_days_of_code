@@ -99,3 +99,8 @@ I summarized what concepts I learned/revised each day:
 ### Days 22 - pong
 
 - OOP practice
+
+### Days 23 - crossy_road
+
+- OOP practice
+
