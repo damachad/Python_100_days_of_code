@@ -104,3 +104,7 @@ I summarized what concepts I learned/revised each day:
 
 - OOP practice
 
+### Days 24 - mail_merge
+
+- Files, directories and paths
+- Open, write, read
