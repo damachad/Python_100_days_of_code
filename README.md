@@ -96,15 +96,20 @@ I summarized what concepts I learned/revised each day:
 - Inheritance
 - List slicing
 
-### Days 22 - pong
+### Day 22 - pong
 
 - OOP practice
 
-### Days 23 - crossy_road
+### Day 23 - crossy_road
 
 - OOP practice
 
-### Days 24 - mail_merge
+### Day 24 - mail_merge
 
 - Files, directories and paths
 - Open, write, read
+
+  ### Day 25 - US state game
+
+  - Working with CSV data
+  - Pandas library
