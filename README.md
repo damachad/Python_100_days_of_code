@@ -109,7 +109,7 @@ I summarized what concepts I learned/revised each day:
 - Files, directories and paths
 - Open, write, read
 
-### Day 25 - US state game
+### Day 25 - US States game
 
 - Working with CSV data
 - Pandas library
