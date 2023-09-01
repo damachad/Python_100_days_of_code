@@ -113,3 +113,8 @@ I summarized what concepts I learned/revised each day:
 
 - Working with CSV data
 - Pandas library
+
+### Day 26 - NATO Alphabet
+
+- List comprehension
+- Dictionary comprehension
