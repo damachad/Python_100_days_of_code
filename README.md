@@ -118,3 +118,8 @@ I summarized what concepts I learned/revised each day:
 
 - List comprehension
 - Dictionary comprehension
+
+### Day 27 - miles to km converter
+
+- Tkinter module
+- *args and **kwargs
