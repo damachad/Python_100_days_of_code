@@ -123,3 +123,8 @@ I summarized what concepts I learned/revised each day:
 
 - Tkinter module
 - *args and **kwargs
+
+### Day 28 - pomodoro timer
+
+- Intermediate Tkinter
+- Dynamic typing
