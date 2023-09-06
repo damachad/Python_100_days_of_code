@@ -128,3 +128,8 @@ I summarized what concepts I learned/revised each day:
 
 - Intermediate Tkinter
 - Dynamic typing
+
+### Day 29 - password manager
+
+- Tkinter practice
+- Revision (list comprehension, etc.)
