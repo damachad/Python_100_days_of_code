@@ -133,3 +133,8 @@ I summarized what concepts I learned/revised each day:
 
 - Tkinter practice
 - Revision (list comprehension, etc.)
+
+### Day 30 - password manager v2
+
+- Errors and exceptions
+- JSON data
