@@ -138,3 +138,7 @@ I summarized what concepts I learned/revised each day:
 
 - Errors and exceptions
 - JSON data
+
+### Day 31 - flashcard app
+
+- Revision (pandas, tkinter, errors, files, etc.)
