@@ -65,11 +65,11 @@ def save():
                 password_entry.delete(0, 'end')
 
 
-# -------------------------- FIND PASSWORD ----------------------------- #
+# ------------------------- SEARCH PASSWORD ---------------------------- #
 
 
 def find_password():
-    website = website_entry.get()
+    website = website_entry.get().lower()
     if len(website) == 0:
         messagebox.showinfo(title="Oops", message="Please specify website to search.")
     else:
@@ -79,9 +79,10 @@ def find_password():
         except FileNotFoundError:
             messagebox.showinfo(title="Oops", message="No Data File Found")
         else:
-            if website in data:
-                messagebox.showinfo(title=website, message=f"Email: {data[website]['email']}\n"
-                                                           f"Password: {data[website]['password']}")
+            data_lower = {site.lower(): value for (site, value) in data.items()}
+            if website in data_lower:
+                messagebox.showinfo(title=website.capitalize(), message=f"Email: {data_lower[website]['email']}\n"
+                                                           f"Password: {data_lower[website]['password']}")
             else:
                 messagebox.showinfo(title="Error", message=f"No details for {website} exist.")
 
@@ -93,7 +94,7 @@ window.title("Password Manager")
 window.config(padx=50, pady=50)
 
 canvas = Canvas(width=200, height=200)
-logo = PhotoImage(file="logo.png")
+logo = PhotoImage(file="../logo.png")
 canvas.create_image(100, 100, image=logo)
 canvas.grid(row=0, column=1)
 
