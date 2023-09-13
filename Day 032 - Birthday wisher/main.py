@@ -1,8 +1,8 @@
 import smtplib, random, pandas, os
 import datetime as dt
 
-MY_EMAIL = "david00smith98@gmail.com"
-PASSWORD = "tluxokwuaqyqkspx"
+MY_EMAIL = [insert sender's mail here]
+PASSWORD = [insert password here]
 PLACEHOLDER = "[NAME]"
 
 now = dt.datetime.now()
