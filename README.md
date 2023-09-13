@@ -142,3 +142,8 @@ I summarized what concepts I learned/revised each day:
 ### Day 31 - flashcard app
 
 - Revision (pandas, tkinter, errors, files, etc.)
+
+### Day 32 - birthday wishes
+
+- datetime module
+- SMTP
