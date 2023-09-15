@@ -1,7 +1,7 @@
 # Learning Python
 
 Exercises from the [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) course.    
-You can access my Replit page and run the code from all these exercises [here](https://replit.com/@damachad).   
+You can access my Replit page and run the code from some of these exercises [here](https://replit.com/@damachad).   
    
 I summarized what concepts I learned/revised each day:
 
@@ -147,3 +147,7 @@ I summarized what concepts I learned/revised each day:
 
 - datetime module
 - SMTP
+
+### Day 33 - ISS overhead notifier
+
+-API endpoints and parameters
