@@ -151,3 +151,8 @@ I summarized what concepts I learned/revised each day:
 ### Day 33 - ISS overhead notifier
 
 -API endpoints and parameters
+
+### Day 34 - Quizler app
+
+- Python typing
+
