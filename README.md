@@ -156,3 +156,9 @@ I summarized what concepts I learned/revised each day:
 
 - Python typing
 
+### Days 35 to 40 - Flight Club
+
+- Keys, authentication, and environmental variables
+- Send SMS via the Twilio API
+- Manage data on Google Sheets with the Sheety API
+- Get flight data via the Tequila API
